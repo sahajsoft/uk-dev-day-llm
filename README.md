@@ -1,4 +1,4 @@
-#LLM DEV DAY
+# LLM DEV DAY
 Resources and Notebooks related to Building with LLMs Talk
 
 ## Prerequisites
