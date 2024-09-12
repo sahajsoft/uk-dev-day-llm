@@ -6,7 +6,6 @@ Make sure you have the following installed
 * [python 3.11](https://www.python.org/downloads/)
 * [poetry](https://pypi.org/project/poetry/)
 * [ollama](https://github.com/ollama/ollama)
-* [notebook](https://pypi.org/project/notebook/)
 
 ## Getting started 
 
