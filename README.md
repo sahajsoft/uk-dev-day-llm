@@ -1,5 +1,5 @@
 # LLM DEV DAY
-Resources and Notebooks related to Building with LLMs Talk
+Resources and Notebooks related to talk: [Building with LLMs](https://www.meetup.com/devday-uk/events/303113488/)
 
 ## Prerequisites
 Make sure you have the following installed
