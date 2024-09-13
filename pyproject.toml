@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "llm-dev-day-sahaj"
+version = "0.1.0"
+description = ""
+authors = ["Ioseb Laghidze, Mallikarjuna B R"]
+readme = "README.md"
+# license = "BSD"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+chromadb = "^0.4.24"
+bs4 = "^0.0.2"
+sentence-transformers = "^2.5.1"
+datasets = "^2.19.2"
+transformers = {extras = ["torch"], version = "^4.41.2"}
+langchain = "^0.2.16"
+langchain-ollama = "^0.1.3"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
