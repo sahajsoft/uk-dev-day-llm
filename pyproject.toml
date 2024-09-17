@@ -20,6 +20,11 @@ langchain-community = "^0.3.0"
 langchain-chroma = "^0.1.4"
 langchain-huggingface = "^0.1.0"
 langchain-text-splitters = "^0.3.0"
+weaviate-client = "^4.8.1"
+scikit-learn = "^1.5.2"
+matplotlib = "^3.9.2"
+langchainhub = "^0.1.21"
+unstructured = "^0.15.12"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"

@@ -16,7 +16,9 @@ To get staretd, run the following commands
  poetry install
  ollama serve &
  ollama pull mistral &
+ ollama pull llama3.1:8b &
  ollama pull nomic-embed-text &
+ docker run -d -p 8080:8080 -p 50051:50051 cr.weaviate.io/semitechnologies/weaviate &
  poetry run jupyter notebook &
 
 ```
