@@ -25,6 +25,7 @@ scikit-learn = "^1.5.2"
 matplotlib = "^3.9.2"
 langchainhub = "^0.1.21"
 unstructured = "^0.15.12"
+numpy = "1.26.4"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
